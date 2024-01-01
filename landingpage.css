@@ -123,9 +123,9 @@ a {
  /* ------------------  HOME SECTION  ------------------ */
 
 .home{
-    background: url("unsplash.jpg")top center/cover;
+    background: url("front\ picture.jpg")top center/cover;
     width:auto;
-    height: 675px;
+    height: 685px;
 }
 .home .intro-text{
   font-weight: 600;
